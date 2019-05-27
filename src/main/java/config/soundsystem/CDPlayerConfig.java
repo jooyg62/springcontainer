@@ -3,8 +3,6 @@ package config.soundsystem;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-import com.cafe24.springcontainer.soundsystem.Index;
-
 @Configuration
 @ComponentScan(basePackages="com.cafe24.springcontainer.soundsystem")
 // @ComponentScan(basePackages= {"com.cafe24.springcontainer.soundsystem", "com.cafe24.springcontainer.videosystem"})
